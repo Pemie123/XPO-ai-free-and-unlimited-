@@ -2,7 +2,7 @@
 
 
 How to launch XPO-AI
-17 okt 2026 · @Wim Brillouet
+
 XPO-AI is a Base44 app (a React + Vite frontend). You run it on your computer with one command, and you publish it from the Base44 dashboard.
 What you need
 Tool
